@@ -48,3 +48,12 @@ patch:
         patched: '2019-07-04T00:32:32.315Z'
     - next > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2019-07-04T00:32:32.315Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - pm2 > @pm2/agent > proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T00:35:43.063Z'
+    - pm2 > @pm2/agent > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T00:35:43.063Z'
+    - pm2 > @pm2/io > @pm2/agent-node > proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T00:35:43.063Z'
+    - pm2 > @pm2/io > @pm2/agent-node > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T00:35:43.063Z'
