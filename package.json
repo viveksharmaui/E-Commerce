@@ -46,7 +46,7 @@
     "react-toastify": "^4.1.0",
     "request": "^2.87.0",
     "stripe": "^6.1.1",
-    "snyk": "^1.189.0"
+    "snyk": "^1.231.0"
   },
   "engines": {
     "node": "6.11.x"
